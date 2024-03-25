@@ -28,5 +28,6 @@ class BankAccount (var accoutHolder : String, var balance : Double) {
         for(item in transactionHistory){
             println(transactionHistory)
         }
+
     }
 }
